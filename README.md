@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/MUHAMMADZAHIDQURESHI/Resume-CV/blob/main/Muhmmad%20Zahid.jpg?raw=true)
 <center>
 <h1 align="center">Hi 👋,I am Muhmmad Zahid</h1>
 </center>
@@ -8,5 +8,5 @@
 
 <p>In the U.S., a C.V is an exhaustive academic summary used for applications for roles in academia, scientific research and medical fields. In Europe, Ireland and New Zealand, the term CV is used to mean the same as a “resume” in the U.S. • Resume is derived from the French word résumé, meaning summary.</p>
 
-<p>The curriculum vitae, also known as a CV or vita, is a comprehensive statement of your educational background, teaching, and research experience. It is the standard representation of credentials within academia. The full CV is only used when applying for academic positions in four-year institutions.</p>
-![logo]()
+<p></p>
+<img src="https://github.com/MUHAMMADZAHIDQURESHI/Resume-CV/blob/main/Muhmmad%20Zahid.jpg?raw=true" alt="">
